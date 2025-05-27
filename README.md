@@ -1,4 +1,5 @@
-# Electricity-generation-sources-Euro-area- Data analysis of sources for generation of electricity in Euro Area countries using Python, SQL, and Tableau
+# Electricity-generation-sources-Euro-area
+Data analysis of sources for generation of electricity in Euro Area countries using Python, SQL, and Tableau
 
 Analyzing different sources for generation of electricity in Euro Area countries. The dataset was taken from World Bank databank. The data analysis tools used in the project are Python, MySQL and Tableau. 
 
